@@ -1,2 +1,2 @@
 # how-to-create-a-free-HDTV-antenea
-<img src="pic_trulli.jpg" alt="hacktuber">
+<img src="tv antenea hacktuber.pdf" alt="hacktuber">
